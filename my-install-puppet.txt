@@ -1,7 +1,7 @@
 {
  "AWSTemplateFormatVersion" : "2010-09-09",
 
- "Description": "Sample template to bring up Puppet Master instance that can be used to bootstrap and manage Puppet Clients. The Puppet Master is populated from an embedded template that defines the set of applications to load. **WARNING** This template creates one or more Amazon EC2 instances.You will be billed for the AWS resources used if you create a stack from this template.",
+ "Description": "Sample template to bring up Puppet Master instance that can be used to bootstrap and manage Puppet Clients. The Puppet Master is populated from an embedded template that defines the set of applications to load. **WARNING** This template creates one or more Amazon EC2 instances.You will be billed for the AWS resources used if you create a stack from this template. for me",
  "Parameters" : {
    "InstanceType" : {
       "Description" : "WebServer EC2 instance type",
